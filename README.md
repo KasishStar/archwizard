@@ -27,6 +27,13 @@ Run:
 ```bash
 python archwizard/main.py
 ```
+## Community
+
+Join the ArchWizard Discord community:
+
+https://discord.gg/G6pGEx6tE
+
+Discuss features, report bugs, suggest ideas, and help shape the future of ArchWizard.
 
 ## Profiles
 
