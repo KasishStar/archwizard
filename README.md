@@ -66,14 +66,6 @@ ArchWizard uses `sudo pacman` to update the system and install selected packages
 
 Your password is requested by `sudo` and is handled by the operating system. ArchWizard does not collect, store, transmit, log, or upload passwords.
 
-## Community
-
-Discord server:
-
-Replace this line with your Discord invite link.
-
-Community feedback, bug reports, feature requests, and discussions are welcome.
-
 ## Roadmap
 
 ### Version 1
