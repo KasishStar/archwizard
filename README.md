@@ -27,6 +27,18 @@ Run:
 ```bash
 python archwizard/main.py
 ```
+
+## AUR Installation
+AUR:
+```bash
+yay -S archwizard
+```
+
+Usage:
+```bash
+archwizard
+```
+
 ## Community
 
 Join the ArchWizard Discord community:

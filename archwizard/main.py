@@ -1,5 +1,5 @@
-from profiles import PROFILES
-from installer import install_packages, update_system
+from .profiles import PROFILES
+from .installer import install_packages, update_system
 
 
 def show_menu():
