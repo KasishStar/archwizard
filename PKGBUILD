@@ -20,7 +20,7 @@ source=(
 "$pkgname-$pkgver.tar.gz::https://github.com/KasishStar/ArchWizard/archive/refs/tags/v$pkgver.tar.gz"
 )
 
-sha256sums=('6ae0c25acebf72a25c4d2e06097a26b5174cd76897d59de3c0196c6cc3a89666')
+sha256sums=('1d770413fb326b86121fe1c15449d3c1b9acac36b131f3264b8ef865ee8c7992')
 
 build() {
 cd "$srcdir/$pkgname-$pkgver"
