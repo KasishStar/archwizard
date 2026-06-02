@@ -1,5 +1,5 @@
 pkgname=archwizard
-pkgver=0.1.1
+pkgver=0.1.2
 pkgrel=1
 pkgdesc="A simple setup wizard for Arch Linux"
 arch=('any')

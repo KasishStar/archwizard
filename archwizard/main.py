@@ -59,7 +59,15 @@ def main():
         confirm = input("\nContinue? (Y/n): ")
 
         if confirm.lower() != "n":
-            install_packages(packages)
+            # Prompt for Pacman vs AUR
+            print("\nSelect Installation Method:")
+            print("1. Standard (pacman)")
+            print("2. AUR Helper (yay/paru)")
+            method_choice = input("Select option [1/2]: ")
+
+            method = "aur" if method_choice == "2" else "pacman"
+
+            install_packages(packages, method=method)
 
 
 if __name__ == "__main__":
